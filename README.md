@@ -1,6 +1,7 @@
 # udacity_ds
 to store projects of udacity programs
 
+# Stack Overflow 2017
 the analysis conclusions of full time developers:
 - Finally you need to master **VS**, but if you’re a newbie you can start with **Sublime Text**;
 - You can expect **2477** of salary increasing annully. If you don’t get it, then you are below the average.
