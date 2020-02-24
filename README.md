@@ -1,8 +1,24 @@
 # udacity_ds
 to store projects of udacity programs
 
-# Stack Overflow 2017
-the analysis conclusions of full time developers:
+#The libraries used 
+- numpy
+- pandas
+- datetime
+- matplotlib
+- seaborn
+- joblib
+- warnings
+
+#The motivation for the project
+How do you want to be a good programmer? As a rookie, what tools do you think good programmers use? Whether your career is related to them. In particular, if you choose to enter the industry, how much do you expect to be paid? This can be an important bargaining chip for you and HR.
+May this analysis be a help
+
+#Files description
+- survey_results_schema.csv: the data set
+- StackOverflow_Survey_2017.ipynb: the process of analysising and modeling
+
+#The analysis conclusions of full time developers:
 - Finally you need to master **VS**, but if you’re a newbie you can start with **Sublime Text**;
 - You can expect **2477** of salary increasing annully. If you don’t get it, then you are below the average.
 - The median salary level of different majors can range from **38K to 75k**;
