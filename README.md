@@ -1,5 +1,5 @@
-# udacity_ds
-to store projects of udacity programs
+# StackOverflow_Survey_2017
+The analysis of stackoverflow survey 2017.How much salary you can expect with your coding skill.
 
 # The libraries used 
 - numpy
