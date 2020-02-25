@@ -9,6 +9,8 @@ The analysis of stackoverflow survey 2017.How much salary you can expect with yo
 - seaborn
 - joblib
 - warnings
+- scikit-learn
+- xgboost
 
 # The motivation for the project
 How do you want to be a good programmer? As a rookie, what tools do you think good programmers use? Whether your career is related to them. In particular, if you choose to enter the industry, how much do you expect to be paid? This can be an important bargaining chip for you and HR.
